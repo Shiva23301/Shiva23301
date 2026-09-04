@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi 👋, I'm Shivam Sharma
 
-<!--
-**Shiva23301/Shiva23301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Backend Developer | Spring Boot
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineering Student
+💻 Focused on Java Backend Development and REST API Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I am a Computer Science Engineering student focused on backend development using Java and Spring Boot.
+
+I enjoy building RESTful APIs and backend applications using clean and structured code.
+
+Currently, I am strengthening my skills in Java, Spring Boot, database management, and backend development.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* HTML
+* CSS
+* JavaScript
+
+### Backend
+
+* Spring Boot
+* Spring Data JPA
+* REST APIs
+
+### Databases
+
+* MySQL
+  
+### Tools
+
+* Git
+* GitHub
+* Maven
+* IntelliJ IDEA
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Hospital Management System
+
+Backend application for managing patients, doctors, and appointments using Spring Boot and PostgreSQL.
+
+**Tech:** Java | Spring Boot | Spring Data JPA | MySQL | REST API
+
+### 📚 Library Management System
+
+Backend application for managing books, users, and borrowing operations.
+
+**Tech:** Java | Spring Boot | Spring Data JPA | MySQL | REST API
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Java
+* Spring Boot
+* REST API Development
+* Backend Architecture
+* Data Structures & Algorithms
+
+---
+
+## 💻 Coding Profiles
+
+* LeetCode: [Profile](https://leetcode.com/u/shivamsharma446/)
+* LinkedIn: [Profile](https://www.linkedin.com/in/shivam-sharma-556826345/)
+* Portfolio: [Website](YOUR_PORTFOLIO_LINK)
+
+---
+
+## 📫 Connect With Me
+
+Feel free to explore my repositories and connect with me on LinkedIn.
